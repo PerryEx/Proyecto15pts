@@ -1,0 +1,99 @@
+a{
+    font-family: monospace;
+    font-size: 16px;
+}
+
+#etiqueta{
+    font-family: cursive;
+    font-style: oblique;
+    font-size: 25px;
+    
+}
+
+body{
+   background-image: url(https://4.bp.blogspot.com/-NRR1iVevuM8/TvxWYtb7KyI/AAAAAAAACQo/eGyQ8ENEhog/s1600/wallpaper-tumblr-wallpaper-733412.jpg);
+}
+
+#blanco{
+    color: chocolate;
+}
+
+#blancoo{
+    color: chocolate;
+}
+
+#etiqueta2{
+    color: black;
+}
+
+#registro{
+    opacity: 90%;
+}
+
+h1{
+    font-family: serif;
+    font-style:italic;
+    font-size: 40px;
+
+}
+
+h2{
+  font-family: serif;
+    font-style:italic;
+    font-size: 40px;
+    color: white;
+}
+
+lavel{
+    color: black;
+    font-style: initial;
+}
+
+
+
+.form-control {
+
+}
+
+input{
+    margin-bottom: 10px;
+    font-style: oblique;
+    font-family: sans-serif;
+    
+}
+
+th{
+    color: white;
+   
+}
+
+tr{
+     margin-right: 50px;
+    align-content: center;
+}
+
+td{
+    color: orange;
+    font-size: 25px;
+    font-style: oblique;
+    align-content: center;
+}
+
+#prueba{
+    width: 300px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+
+#tables{
+    width: 350px;
+  }
+
+
+
+
+
+
+
+
